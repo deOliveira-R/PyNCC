@@ -60,3 +60,7 @@ print(fuel_outer_radii)
 print(fuel_densities)
 print(fuel_temperatures)
 print(fuel_compositions)
+
+
+def rod():
+    print("Hello Rodrigo!")
